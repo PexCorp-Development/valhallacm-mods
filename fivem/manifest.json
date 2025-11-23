@@ -1,6 +1,6 @@
 {
   "game_type": "fivem",
-  "install_path": "FiveM Application Data/mods",
+  "install_path": "FiveM.app/mods",
   "mods": [
     {
       "id": "realistic-blood",
