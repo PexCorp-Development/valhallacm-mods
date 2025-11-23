@@ -1,5 +1,5 @@
 {
-  "game_type": "minecraft",
+  "game_type": "minecraftjava",
   "install_path": ".minecraft/mods",
   "mods": [
     {
