@@ -30,7 +30,7 @@
       "description": "Mejora las físicas de los personajes al caer o recibir impactos, haciendo que las caídas y reacciones sean más realistas.",
       "image": "https://raw.githubusercontent.com/PexCorp-Development/valhallacm-mods/main/fivem/mods/ragdoll_mod.webp",
       "version": "1.0.0",
-      "size": 280576,
+      "size": 389120,
       "required": false,
       "checksum": "",
       "download_url": "https://raw.githubusercontent.com/PexCorp-Development/valhallacm-mods/main/fivem/mods/ragdoll_mod.zip"
