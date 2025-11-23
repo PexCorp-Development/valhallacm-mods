@@ -10,6 +10,8 @@
       "version": "1.0.0",
       "size": 52348416,
       "required": false,
+      "author": "IcePickPlays",
+      "author_url": "https://www.youtube.com/watch?v=ji8-2DH1yPU",
       "checksum": "",
       "download_url": "https://raw.githubusercontent.com/PexCorp-Development/valhallacm-mods/main/fivem/mods/blood_mod.zip"
     },
@@ -21,6 +23,8 @@
       "version": "1.0.0",
       "size": 3226624,
       "required": false,
+      "author": "IcePickPlays",
+      "author_url": "https://www.youtube.com/watch?v=7FuNvY2jqkA",
       "checksum": "",
       "download_url": "https://raw.githubusercontent.com/PexCorp-Development/valhallacm-mods/main/fivem/mods/weapon_anim_overhaul.zip"
     },
@@ -32,6 +36,8 @@
       "version": "1.0.0",
       "size": 389120,
       "required": false,
+      "author": "bravercoolio & jedijosh920",
+      "author_url": "https://www.gta5-mods.com/misc/rageuphoria",
       "checksum": "",
       "download_url": "https://raw.githubusercontent.com/PexCorp-Development/valhallacm-mods/main/fivem/mods/ragdoll_mod.zip"
     }
