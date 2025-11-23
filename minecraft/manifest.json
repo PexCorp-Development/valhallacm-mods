@@ -1,0 +1,24 @@
+{
+  "game_type": "minecraft",
+  "install_path": ".minecraft/mods",
+  "mods": [
+    {
+      "id": "vrp-framework",
+      "name": "vRP Framework",
+      "version": "1.3.0",
+      "size": 5242880,
+      "required": true,
+      "checksum": "",
+      "download_url": "https://raw.githubusercontent.com/PexCorp-Development/valhallacm-mods/main/fivem/mods/vrp-1.3.0.zip"
+    },
+    {
+      "id": "custom-hud",
+      "name": "Custom HUD",
+      "version": "2.0.1",
+      "size": 1048576,
+      "required": false,
+      "checksum": "",
+      "download_url": "https://raw.githubusercontent.com/PexCorp-Development/valhallacm-mods/main/fivem/mods/custom-hud-2.0.1.zip"
+    }
+  ]
+}
